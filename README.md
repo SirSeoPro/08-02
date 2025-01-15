@@ -13,6 +13,16 @@
 
 ---
 
+### Решение:
+
+<details>
+
+![image1](https://github.com/SirSeoPro/08-02/blob/main/img/1.png)
+![image2](https://github.com/SirSeoPro/08-02/blob/main/img/2.png)
+![image3](https://github.com/SirSeoPro/08-02/blob/main/img/3.png)
+
+</details>
+
 ### Задание 2
 
 **Что нужно сделать:**
@@ -23,6 +33,15 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
+
+### Решение:
+
+<details>
+
+![image4](https://github.com/SirSeoPro/08-02/blob/main/img/4.png)
+![image5](https://github.com/SirSeoPro/08-02/blob/main/img/5.png)
+
+</details>
 
 ### Задание 3
 
@@ -36,3 +55,12 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
+
+### Решение:
+
+<details>
+
+![image6](https://github.com/SirSeoPro/08-02/blob/main/img/6.png)
+![image7](https://github.com/SirSeoPro/08-02/blob/main/img/7.png)
+
+</details>
