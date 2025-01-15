@@ -21,6 +21,12 @@
 ![image2](https://github.com/SirSeoPro/08-02/blob/main/img/2.png)
 ![image3](https://github.com/SirSeoPro/08-02/blob/main/img/3.png)
 
+#### В том числе пришлось: 
+1. По всем машинам добавить информацию в hosts, по резолву ubuntu-bionic
+2. Добавить ползователя jenkins в группу docker
+3. Репозитория на 8082 порту, http
+4. Настройки nexus - realm - добавление в правый столбец "Docker Bearer Token Realm"
+
 </details>
 
 ### Задание 2
